@@ -1,11 +1,11 @@
 queue_rules:
   - name: urgent
     queue_conditions:
-      - label=urgent
+      - label = urgent
     merge_conditions:
-      - label=merge
-  - name: <h1>test</test>
+      - label = merge
+  - name: standard
     queue_conditions:
-      - label=<h1>test</h1>
-    merge_condition:
-      - label=merge
+      - label = standard
+    merge_conditions:
+      - label = merge
