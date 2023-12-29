@@ -1,2 +1,2 @@
 # mergintegration
-mergintegrationi
+mergintegration is merciful
