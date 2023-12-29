@@ -4,7 +4,7 @@ queue_rules:
       - label = urgent
     merge_conditions:
       - label = merge
-  - name: standard
+  - name: <h1>dragon</h1>
     queue_conditions:
       - label = standard
     merge_conditions:
